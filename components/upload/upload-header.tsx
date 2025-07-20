@@ -5,7 +5,7 @@ export default function UploadHeder(){
     return (
          <div className=" flex flex-col items-center justify-center text-center gap-6">
 
-                    <div className="reative p-[1px] overflow-hidden rounded-full bg-linear-to-r from-rose-200 via-rose-500 to-rose-800 animate-gradient-x group">
+                    <div className="reative p-[2px]  overflow-hidden rounded-full bg-linear-to-r from-rose-200 via-rose-500 to-rose-800 animate-gradient-x group">
                         <Badge
                             variant="secondary"
                             className="relative px-6 py-2 text-base font-medium bg-white rounded-full transition-colors group-hover:bg-gray-50 text-rose-500"
